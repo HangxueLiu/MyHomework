@@ -4,22 +4,22 @@ namespace HelloWorld
 {
     class HelloWorld
     {
-        public  void PrintHello()
+        public static void PrintHello()
         {
             Console.WriteLine("Hello World!");
         }
     }
     class Program
     {
+
         static void Main(string[] args)
         {
-            foreach(string i in args)
+            foreach (string i in args)
             {
                 Console.Write(i);
             }
             Console.WriteLine();
-           HelloWorld hello=new HelloWorld();
-            hello.PrintHello();
+            HelloWorld.PrintHello();
             foreach (string i in args)
             {
                 Console.Write(i);
