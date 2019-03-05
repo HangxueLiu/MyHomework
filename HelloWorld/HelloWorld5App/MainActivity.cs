@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace HelloWorld5App
 {
-    [Activity(Label = "HelloWorld5App", MainLauncher = true)]
+    [Activity(Label = "HelloWorld", MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
