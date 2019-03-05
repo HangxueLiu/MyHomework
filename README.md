@@ -19,7 +19,7 @@ Console.ResetColor()
 
 ### hello world1 ###
 <p>非静态方法实现printHelloWorld并在开头和结尾用foreach输出命令行参数</p>
-![Alt Text](https://github.com/HangxueLiu/MyHomework/blob/master/picture/%E4%BD%9C%E4%B8%9A%E4%B8%80%EF%BC%8C%E4%BA%8C%E5%9B%BE%E7%89%87/homework2%20helloworld12.png)
+![Alt Text1](https://github.com/HangxueLiu/MyHomework/blob/master/picture/%E4%BD%9C%E4%B8%9A%E4%B8%80%EF%BC%8C%E4%BA%8C%E5%9B%BE%E7%89%87/homework2%20helloworld12.png)
 ### hello world2###
 <p>静态方法实现无需实例化对象</p>
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/picture/%E4%BD%9C%E4%B8%9A%E4%B8%80%EF%BC%8C%E4%BA%8C%E5%9B%BE%E7%89%87/homework2%20helloworld12.png)
