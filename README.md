@@ -9,7 +9,7 @@
 <p>新理解：远程存储库是本地存储库的备份，即整个库同步，所以整个文件夹的改动都会被同步到远程存储库。要同步的文件必须在本地存储库中</p>
 <p>rejected Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes before pushing again.</p>
 <p>经过查资料发现是因为我们在本地新建库后，与远程仓库的内容不一致导致的。为此在我向远程库推送的时候，要先进行pull，让本地新建的库和远程库进行同步。</p>
-## 作业一 ##
+## 作业一 
 <p>只需在代码最后加一句恢复颜色的代码.</p> 
 Console.ResetColor()
 
