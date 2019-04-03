@@ -44,4 +44,4 @@ WindowsForm项目中进行类似3中的操作
 #### 实现一个功能和视频演示相同的WPF APP  
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/1.png)  
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/2.png)
-!{}(https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/3.png)
+![](https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/3.png)
