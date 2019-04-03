@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TipCalculator.Properties
+namespace homework3.Properties
 {
 
 
