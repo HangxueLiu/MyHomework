@@ -45,3 +45,13 @@ WindowsForm项目中进行类似3中的操作
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/1.png)  
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/2.png)
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework3/homework3/picture/3.png)
+
+
+## 作业四
+### 目标
+#### 学会使用vs2017 web API
+![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/1.png)  
+#### 为了通过ID获得产品，输入ID并点击Search
+![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/2.png)  
+#### 如果你输入了一个无效的ID，那么服务器就会返回HTTP错误消息。
+![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/3.png)  
