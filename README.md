@@ -55,3 +55,7 @@ WindowsForm项目中进行类似3中的操作
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/2.png)  
 #### 如果你输入了一个无效的ID，那么服务器就会返回HTTP错误消息。
 ![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/3.png)  
+#### F12来打开工具。点击Network面板，并点击Start Capturing。现在返回到web页面，并按F5来重新加载web页面。IE将会捕捉到浏览器和web服务器之间的HTTP传输。下图显示了一个页面的所有HTTP传输。  
+![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/4.png)  
+#### 定位到相对URI”api/products/“。  
+![](https://github.com/HangxueLiu/MyHomework/blob/master/homework4/picture/4.png)  
